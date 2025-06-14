@@ -1,0 +1,61 @@
+.flex {
+    display: flex;
+}
+
+
+
+.space-between {
+    justify-content: space-between;
+}
+
+.column {
+    flex-direction:column;
+}
+
+.logo {
+    max-height: 100px;
+    width: auto;
+}
+
+.hero{
+    background-color: #8246af;
+    color: white;
+    padding: 5%;
+    align-items: start;
+}
+
+.padding-small {
+    padding: 8px;
+}
+
+.padding-medium {
+    padding: 16px;
+}
+
+.padding-large {
+    padding: 24px;
+}
+
+.padding-extralarge {
+    padding: 32px;
+}
+
+.btn-primary {
+    background-color: #ffa300; 
+    color: black;
+    padding: 8px;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+article img{
+    width: 24px;
+}
+
+.icon {
+    width: 32px;
+}
+
+.socials-icon{
+    width: 32px;
+}
